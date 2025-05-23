@@ -4,53 +4,22 @@
     "id-app": "android-n1547&crma",
     "validade": "12/12/2026",
     "Categorias": [
-        {
-            "Bom Dia": {
-                "img-png-1": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-2": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-3": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-4": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-5": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-6": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-7": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-8": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-9": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-10": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-10": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-12": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-13": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-14": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-15": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-16": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-17": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-18": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-19": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-20": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a"
-                
-            },
-            "Boa Tarde": {
-                "img-png-1": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-2": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-3": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-4": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-5": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-6": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-7": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-8": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-9": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-10": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-10": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-12": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-13": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-14": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-15": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-16": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-17": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-18": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-19": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a",
-                "img-png-20": "https://drive.google.com/drive/folders/1-Y8NjhgE-6PirHAksqrkVby5q3QuuKLc?sort=13&direction=a"
-                
-            }
+      {
+        "Bom Dia": {
+          "img-png-1": "https://github.com/CoutySSH/PACK-DE-FIGURINHAS-PARA-STORIES/blob/main/downloads/1-ohAIiHQ5iccMZE-ZnuJj8i51mNew2y7/fig1.png",
+          "img-png-2": "https://github.com/CoutySSH/PACK-DE-FIGURINHAS-PARA-STORIES/blob/main/downloads/1-ohAIiHQ5iccMZE-ZnuJj8i51mNew2y7/fig2.png",
+          "img-png-3": "https://github.com/CoutySSH/PACK-DE-FIGURINHAS-PARA-STORIES/blob/main/downloads/1-ohAIiHQ5iccMZE-ZnuJj8i51mNew2y7/fig3.png",
+          "img-png-4": "https://github.com/CoutySSH/PACK-DE-FIGURINHAS-PARA-STORIES/blob/main/downloads/1-ohAIiHQ5iccMZE-ZnuJj8i51mNew2y7/fig4.png",
+          "img-png-5": "https://github.com/CoutySSH/PACK-DE-FIGURINHAS-PARA-STORIES/blob/main/downloads/1-ohAIiHQ5iccMZE-ZnuJj8i51mNew2y7/fig5.png"
+        },
+        "Boa Tarde": {
+          "img-png-1": "https://github.com/CoutySSH/PACK-DE-FIGURINHAS-PARA-STORIES/blob/main/downloads/1-ohAIiHQ5iccMZE-ZnuJj8i51mNew2y7/fig1.png",
+          "img-png-2": "https://github.com/CoutySSH/PACK-DE-FIGURINHAS-PARA-STORIES/blob/main/downloads/1-ohAIiHQ5iccMZE-ZnuJj8i51mNew2y7/fig2.png",
+          "img-png-3": "https://github.com/CoutySSH/PACK-DE-FIGURINHAS-PARA-STORIES/blob/main/downloads/1-ohAIiHQ5iccMZE-ZnuJj8i51mNew2y7/fig3.png",
+          "img-png-4": "https://github.com/CoutySSH/PACK-DE-FIGURINHAS-PARA-STORIES/blob/main/downloads/1-ohAIiHQ5iccMZE-ZnuJj8i51mNew2y7/fig4.png",
+          "img-png-5": "https://github.com/CoutySSH/PACK-DE-FIGURINHAS-PARA-STORIES/blob/main/downloads/1-ohAIiHQ5iccMZE-ZnuJj8i51mNew2y7/fig5.png"
         }
+      }
     ]
-}
+  }
+  
