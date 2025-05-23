@@ -2,6 +2,7 @@
     "USER": "CoutySSH",
     "tokenAuth": "6729830b",
     "id-app": "6729830b",
+    "Plano": "Premium",
     "validade": "12/12/2024",
     "Categorias": [
       {
@@ -19,6 +20,51 @@
           "img-png-4": "https://github.com/CoutySSH/PACK-DE-FIGURINHAS-PARA-STORIES/blob/main/downloads/1-ohAIiHQ5iccMZE-ZnuJj8i51mNew2y7/fig4.png",
           "img-png-5": "https://github.com/CoutySSH/PACK-DE-FIGURINHAS-PARA-STORIES/blob/main/downloads/1-ohAIiHQ5iccMZE-ZnuJj8i51mNew2y7/fig5.png"
         }
+      }
+    ],
+    "RedesSociais": {
+      "Instagram": "https://instagram.com/CoutySSH",
+      "YouTube": "https://youtube.com/CoutySSH",
+      "TikTok": "https://tiktok.com/@CoutySSH"
+    },
+    "Novidades": [
+      {
+        "id": 1,
+        "titulo": "Nova funcionalidade de upload de imagens",
+        "descricao": "Agora é possível enviar imagens diretamente pelo app.",
+        "data": "2025-05-20"
+      },
+      {
+        "id": 2,
+        "titulo": "Melhorias na segurança da API",
+        "descricao": "Implementação de autenticação por token mais robusta.",
+        "data": "2025-05-18"
+      },
+      {
+        "id": 3,
+        "titulo": "Adicionado suporte para categorias personalizadas",
+        "descricao": "Usuários podem criar e gerenciar suas próprias categorias.",
+        "data": "2025-05-15"
+      }
+    ],
+    "ConteudosNovos": [
+      {
+        "id": "img001",
+        "categoria": "Bom Dia",
+        "descricao": "Figurinhas adicionadas 1 a 5 na categoria Bom Dia",
+        "data": "2025-05-21"
+      },
+      {
+        "id": "img002",
+        "categoria": "Boa Tarde",
+        "descricao": "Figurinhas adicionadas 1 a 5 na categoria Boa Tarde",
+        "data": "2025-05-19"
+      },
+      {
+        "id": "img003",
+        "categoria": "Noite",
+        "descricao": "Nova categoria Noite com 3 figurinhas adicionadas",
+        "data": "2025-05-10"
       }
     ]
   }
